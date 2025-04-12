@@ -28,6 +28,6 @@
 > ↑添加图片格式示例 
 
 ## 超链接：
-[点击跳转到m1ng-wym主页](https://github.com/m1ng-wym)
+[点击跳转到我的主页](https://github.com/m1ng-wym)
  
 
