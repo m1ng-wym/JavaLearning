@@ -11,7 +11,7 @@ Scanner s = new Scanner(System.in);
 
 使用完Scanner类后，要***调用.close()方法关闭***，否则会一直占用资源。
 
-### next()方法
+## next()方法
 - 一定要读取到有效字符后才可以结束输入。                         
 > 若用户不输入，程序就会一直等待。
 
@@ -23,6 +23,6 @@ Scanner s = new Scanner(System.in);
 
 - ***next()不能得到带有空格的字符串。***
 
-### nextLine()方法
+## nextLine()方法
 - 以Enter为结束符，也就是说***nextLine()方法返回的是输入回车之前的所有字符***。
 - 可以获得空白。
