@@ -10,6 +10,7 @@
 [使用Scratch](https://scratch.mit.edu/)
 
 ## <mark>主要内容</mark>
+
 - binary digit
 - ASCII & Unicode
 - 如何用0和1来表示颜色、图片、视频、声音。
