@@ -17,7 +17,7 @@
 - Artificial Intelligence
 - 通过Scratch来上手编程。(先不关注代码的细节，而是关注程序的逻辑。)
 
-### Summing Up
+### <span style = "color: #a8c0ff">Summing Up</span>
 - Few students come to this class with prior programming experience!
 - You are not alone! You are part of a community.
 - Problem-solving is the essence of the work of computer scientists.
