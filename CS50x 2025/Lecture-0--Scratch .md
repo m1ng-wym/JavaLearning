@@ -17,14 +17,14 @@
 - Artificial Intelligence
 - 通过Scratch来上手编程。(先不关注代码的细节，而是关注程序的逻辑。)
 
-### <span style = "color: red">Summing Up</span>
+### Summing Up
 - Few students come to this class with prior programming experience!
 - You are not alone! You are part of a community.
 - Problem-solving is the essence of the work of computer scientists.
 - This course is not simply about programming – this course will introduce you to a new way of learning that you can apply to almost every area of life.
-- How ***numbers, text, images, music, and video*** are understood and represented by computers.
-- The fundamental programming skill of ***pseudocoding***.
+- How <mark>numbers, text, images, music, and video</mark> are understood and represented by computers.
+- The fundamental programming skill of <mark>pseudocoding</mark>.
 - Reasonable and unreasonable ways to utilize AI in this course.
-- How ***abstraction*** will play a role in your future work in this course.
-- The basic building blocks of programming including ***functions, conditionals, loops, and variables***.
-- How to build a project in ***Scratch***.
+- How <mark>abstraction</mark> will play a role in your future work in this course.
+- The basic building blocks of programming including <mark>functions, conditionals, loops, and variables</mark>.
+- How to build a project in <mark>Scratch</mark>.
