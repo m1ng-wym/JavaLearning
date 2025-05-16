@@ -1,4 +1,4 @@
-# Lecture 0 -- Scratch
+# <span style="background: linear-gradient(90deg, #a8c0ff, #3f2b96); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Lecture 0 -- Scratch</span>
 > ***This is CS50. Welcome aboard!***
 
 [Lecture 0 视频链接](https://www.youtube.com/watch?v=2WtPyqwTLKM)
@@ -18,7 +18,7 @@
 - 通过Scratch来上手编程。(先不关注代码的细节，而是关注程序的逻辑。)
 
 ### Summing Up
-- <mark>Few students</mark> come to this class with prior programming experience!
+- Few students come to this class with prior programming experience!
 - You are not alone! You are part of a community.
 - Problem-solving is the essence of the work of computer scientists.
 - This course is not simply about programming – this course will introduce you to a new way of learning that you can apply to almost every area of life.
